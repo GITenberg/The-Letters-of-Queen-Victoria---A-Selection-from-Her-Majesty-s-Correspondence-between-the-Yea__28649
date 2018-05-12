@@ -1,0 +1,49 @@
+_repo: The-Letters-of-Queen-Victoria---A-Selection-from-Her-Majesty-s-Correspondence-between-the-Yea__28649
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Victoria, Queen of Great Britain
+    birthdate: 1819
+    deathdate: 1901
+    gutenberg_agent_id: '9035'
+    url: http://www.gutenberg.org/2009/agents/9035
+  editors:
+  - agent_name: Esher, Reginald Baliol Brett, Viscount
+    alias: Esher, Viscount Reginald Baliol Brett
+    birthdate: 1852
+    deathdate: 1930
+    gutenberg_agent_id: '9036'
+    url: http://www.gutenberg.org/2009/agents/9036
+    wikipedia: http://en.wikipedia.org/wiki/Reginald_Brett%2C_2nd_Viscount_Esher
+  - agent_name: Benson, Arthur Christopher
+    aliases:
+    - Carr, Christopher
+    - Benson, A. C. (Arthur Christopher)
+    birthdate: 1862
+    deathdate: 1925
+    gutenberg_agent_id: '1486'
+    url: http://www.gutenberg.org/2009/agents/1486
+    wikipedia: http://en.wikipedia.org/wiki/A._C._Benson
+description: I. 1837-1843.--II. 1844-1853.--III. 1854-1861.
+gutenberg_issued: '2009-05-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28649'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DA'
+- !lcsh 'Europe -- Politics and government -- 1848-1871'
+- !lcsh 'Great Britain -- Politics and government -- 1837-1901'
+- !lcc 'AC'
+- !lcsh 'Great Britain -- History -- Victoria, 1837-1901'
+- !lcsh 'Great Britain -- History -- Victoria, 1837-1901 -- Sources'
+- !lcsh 'Victoria, Queen of Great Britain, 1819-1901 -- Correspondence'
+title: "The Letters of Queen Victoria : A Selection from Her Majesty's Correspondence\
+  \ between the Years 1837 and 1861\r\nVolume 3, 1854-1861"
+url: http://www.gutenberg.org/ebooks/28649
