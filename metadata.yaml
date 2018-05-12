@@ -28,6 +28,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1486
     wikipedia: http://en.wikipedia.org/wiki/A._C._Benson
 description: I. 1837-1843.--II. 1844-1853.--III. 1854-1861.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28649#The-Letters-of-Queen-Victoria---A-Selection-from-Her-Majesty-s-Correspondence-between-the-Yea_
 gutenberg_issued: '2009-05-03'
 gutenberg_type: Text
 identifiers:
